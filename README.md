@@ -1,1 +1,33 @@
-# WoWPeru_TBCBalance
+# IntiTBCBalance — Indicador de Equilibrio TBC para GM
+
+> **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
+
+Addon privado de **monitoreo del balance de raids TBC** para Game Masters del servidor Inti de WoW Perú. Muestra en tiempo real métricas de equilibrio de clases/specs en el grupo o raid activo, facilitando ajustes de dificultad dinámicos.
+
+> ⚠️ **Acceso restringido** — Requiere `.gm on` en el servidor Inti.
+
+---
+
+## Características
+
+- **Balance tracker en tiempo real** — Visualiza la composición de specs en raid (tanques, healers, DPS).
+- **Indicadores TBC** — Métricas específicas del meta de The Burning Crusade (debuffs únicos, curses, etc.).
+- **Panel privado** — Invisible para jugadores regulares.
+- Compatible con WotLK 3.3.5a (Interface 30300).
+
+## Instalación
+
+Solo para Game Masters del servidor **Inti**.
+
+1. Copia `IntiTBCBalance` a `Interface/AddOns/`.
+2. Activa con `.gm on` en el servidor.
+
+## Créditos
+
+- **Autor:** DarckRovert (Elnazzareno) & WoW Perú Team
+- **Versión:** 1.0.0
+- **Acceso:** Solo GM — Servidor Inti
+
+---
+
+*Parte del [ecosistema WoW Perú](https://github.com/DarckRovert)*
