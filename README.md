@@ -2,6 +2,8 @@
 
 > **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Addon privado de **monitoreo del balance de raids TBC** para Game Masters del servidor Inti de WoW Perú. Muestra en tiempo real métricas de equilibrio de clases/specs en el grupo o raid activo, facilitando ajustes de dificultad dinámicos.
 
 > ⚠️ **Acceso restringido** — Requiere `.gm on` en servidores cuyo nombre contenga `"inti"` (entorno de pruebas).
