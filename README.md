@@ -4,7 +4,7 @@
 
 Addon privado de **monitoreo del balance de raids TBC** para Game Masters del servidor Inti de WoW Perú. Muestra en tiempo real métricas de equilibrio de clases/specs en el grupo o raid activo, facilitando ajustes de dificultad dinámicos.
 
-> ⚠️ **Acceso restringido** — Requiere `.gm on` en el servidor Inti.
+> ⚠️ **Acceso restringido** — Requiere `.gm on` en servidores cuyo nombre contenga `"inti"` (entorno de pruebas).
 
 ---
 
@@ -22,11 +22,19 @@ Solo para Game Masters del servidor **Inti**.
 1. Copia `IntiTBCBalance` a `Interface/AddOns/`.
 2. Activa con `.gm on` en el servidor.
 
-## Créditos
+## Créditos y Licencia
 
 - **Autor:** DarckRovert (Elnazzareno) & WoW Perú Team
 - **Versión:** 1.0.0
-- **Acceso:** Solo GM — Servidor Inti
+- **Acceso:** Solo GM — Servidor Inti (Pruebas)
+- **Licencia:** [MIT License](LICENSE)
+
+---
+
+## Documentación del Ecosistema
+
+* [Ficha Técnica Oficial del Ecosistema](ECOSYSTEM_REGISTRY.md)
+* [Historial de Cambios](CHANGELOG.md)
 
 ---
 
