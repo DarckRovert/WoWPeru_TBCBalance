@@ -1,6 +1,6 @@
-# IntiTBCBalance — Indicador de Equilibrio TBC para GM
+# ProjectJaina_TBCBalance — Indicador de Equilibrio TBC para GM
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_TBCBalance-black?logo=github)](https://github.com/DarckRovert/Wanos_TBCBalance)
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FProjectJaina_TBCBalance-black?logo=github)](https://github.com/DarckRovert/ProjectJaina_TBCBalance)
 
 > **Project Jaina Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
@@ -23,12 +23,12 @@ Addon privado de **monitoreo del balance de raids TBC** para Game Masters del se
 
 Solo para Game Masters del servidor **Inti**.
 
-1. Copia `IntiTBCBalance` a `Interface/AddOns/`.
+1. Copia `ProjectJaina_TBCBalance` a `Interface/AddOns/`.
 2. Activa con `.gm on` en el servidor.
 
 ## Créditos y Licencia
 
-- **Autor:** DarckRovert (Elnazzareno) & Project Jaina Team
+- **Autor:** DarckRovert (Elnazzareno) & Antigravity (Mythos 5)
 - **Versión:** 1.0.0
 - **Acceso:** Solo GM — Servidor Inti (Pruebas)
 - **Licencia:** [MIT License](LICENSE)

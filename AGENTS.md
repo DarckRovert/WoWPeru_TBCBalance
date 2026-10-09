@@ -1,7 +1,7 @@
-# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — Wanos_TBCBalance
+# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — ProjectJaina_TBCBalance
 
-**Addon:** `Wanos_TBCBalance`  
-**Repositorio Oficial:** [https://github.com/DarckRovert/Wanos_TBCBalance](https://github.com/DarckRovert/Wanos_TBCBalance)  
+**Addon:** `ProjectJaina_TBCBalance`  
+**Repositorio Oficial:** [https://github.com/DarckRovert/ProjectJaina_TBCBalance](https://github.com/DarckRovert/ProjectJaina_TBCBalance)  
 **Motor Gráfico y Runtime:** WoW 3.3.5a WotLK (Build 12340) / Lua 5.1 (Blizzard VM)
 
 ---

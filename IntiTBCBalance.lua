@@ -1,5 +1,5 @@
 -- Diagnostic display only: no spell, combat or buff API is modified.
-local indicator = CreateFrame("Button", "IntiTBCBalanceIndicator", UIParent)
+local indicator = CreateFrame("Button", "ProjectJaina_TBCBalanceIndicator", UIParent)
 indicator:SetSize(36, 36)
 indicator:SetPoint("TOPRIGHT", UIParent, "TOPRIGHT", -220, -165)
 indicator:SetFrameStrata("MEDIUM")

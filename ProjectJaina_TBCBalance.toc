@@ -1,6 +1,6 @@
 ## Interface: 30300
-## Title: Inti TBC Balance - GM
+## Title: Project Jaina - TBC Balance - GM
 ## Notes: Indicador privado del equilibrio de bandas TBC; solo con .gm on en Inti.
-## Author: DarckRovert (Elnazzareno) & Project Jaina Team
+## Author: DarckRovert (Elnazzareno) & Antigravity (Mythos 5)
 ## Version: 1.0.0
-IntiTBCBalance.lua
+ProjectJaina_TBCBalance.lua

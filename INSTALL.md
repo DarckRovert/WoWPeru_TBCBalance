@@ -1,7 +1,7 @@
-# 📦 Guía de Instalación y Despliegue — Wanos_TBCBalance
+# 📦 Guía de Instalación y Despliegue — ProjectJaina_TBCBalance
 
-[![WoW Version](https://img.shields.io/badge/WoW-3.3.5a%20(12340)-blue.svg)](https://projectjaina.com/)
-[![Repositorio](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_TBCBalance-black?logo=github)](https://github.com/DarckRovert/Wanos_TBCBalance)
+[![WoW Version](https://img.shields.io/badge/WoW-3.3.5a%20(12340)-blue.svg)](https://darckrovert.github.io/ProjectJaina_Web/)
+[![Repositorio](https://img.shields.io/badge/GitHub-DarckRovert%2FProjectJaina_TBCBalance-black?logo=github)](https://github.com/DarckRovert/ProjectJaina_TBCBalance)
 
 ## 📋 Requisitos Previos
 - **Cliente:** World of Warcraft 3.3.5a (Build 12340), en español (`esES`) o inglés (`enUS`).
@@ -18,16 +18,16 @@
 2. **Copiar o Clonar el Addon:**  
    Coloca la carpeta del addon dentro de `AddOns\`:  
    ```bash
-   git clone https://github.com/DarckRovert/Wanos_TBCBalance.git
+   git clone https://github.com/DarckRovert/ProjectJaina_TBCBalance.git
    ```
 
 3. **Verificación de Estructura:**  
-   Asegúrate de que el archivo `IntiTBCBalance.toc` se encuentre directamente dentro de la carpeta del addon y no anidado en una subcarpeta redundante:  
-   `Interface\AddOns\IntiTBCBalance\IntiTBCBalance.toc`
+   Asegúrate de que el archivo `ProjectJaina_TBCBalance.toc` se encuentre directamente dentro de la carpeta del addon y no anidado en una subcarpeta redundante:  
+   `Interface\AddOns\ProjectJaina_TBCBalance\ProjectJaina_TBCBalance.toc`
 
 4. **Activación en el Juego:**  
    - Inicia el cliente del juego o escribe `/reload` si ya estás conectado.
-   - En la pantalla de selección de personajes, haz clic en el botón **Accesorios** (esquina inferior izquierda) y marca la casilla de `Wanos_TBCBalance`.
+   - En la pantalla de selección de personajes, haz clic en el botón **Accesorios** (esquina inferior izquierda) y marca la casilla de `ProjectJaina_TBCBalance`.
    - Asegúrate de tener marcada la opción **"Cargar accesorios antiguos"**.
 
 5. **Prueba de Funcionamiento:**  
