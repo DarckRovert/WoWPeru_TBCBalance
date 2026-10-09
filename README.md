@@ -1,12 +1,12 @@
 # IntiTBCBalance — Indicador de Equilibrio TBC para GM
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWoWPeru_TBCBalance-black?logo=github)](https://github.com/DarckRovert/WoWPeru_TBCBalance)
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_TBCBalance-black?logo=github)](https://github.com/DarckRovert/Wanos_TBCBalance)
 
-> **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
+> **Project Jaina Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Addon privado de **monitoreo del balance de raids TBC** para Game Masters del servidor Inti de WoW Perú. Muestra en tiempo real métricas de equilibrio de clases/specs en el grupo o raid activo, facilitando ajustes de dificultad dinámicos.
+Addon privado de **monitoreo del balance de raids TBC** para Game Masters del servidor Inti de Project Jaina. Muestra en tiempo real métricas de equilibrio de clases/specs en el grupo o raid activo, facilitando ajustes de dificultad dinámicos.
 
 > ⚠️ **Acceso restringido** — Requiere `.gm on` en servidores cuyo nombre contenga `"inti"` (entorno de pruebas).
 
@@ -28,7 +28,7 @@ Solo para Game Masters del servidor **Inti**.
 
 ## Créditos y Licencia
 
-- **Autor:** DarckRovert (Elnazzareno) & WoW Perú Team
+- **Autor:** DarckRovert (Elnazzareno) & Project Jaina Team
 - **Versión:** 1.0.0
 - **Acceso:** Solo GM — Servidor Inti (Pruebas)
 - **Licencia:** [MIT License](LICENSE)
@@ -42,4 +42,4 @@ Solo para Game Masters del servidor **Inti**.
 
 ---
 
-*Parte del [ecosistema WoW Perú](https://github.com/DarckRovert)*
+*Parte del [ecosistema Project Jaina](https://github.com/DarckRovert)*

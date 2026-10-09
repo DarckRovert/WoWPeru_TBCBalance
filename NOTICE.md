@@ -1,14 +1,14 @@
-# 📜 Aviso Legal y Atribución — WoWPeru_TBCBalance
+# 📜 Aviso Legal y Atribución — Wanos_TBCBalance
 
-Este repositorio forma parte de las herramientas de Staff y balance de **WoW Perú - Reino Andino**.
+Este repositorio forma parte de las herramientas de Staff y balance de **Project Jaina - Project Jaina**.
 Monitor privado de composición, bufos y balance de clases en bandas TBC para Game Masters sobre World of Warcraft 3.3.5a (Build 12340).
 
 ---
 
 ## 1. Autoría y Desarrollo Oficial
-* **Desarrollador:** DarckRovert & WoW Perú Staff
-* **Ecosistema:** [WoW Perú — Reino Andino (Servidor Inti)](https://wow-peru.lat/)
-* **Repositorio Oficial:** [DarckRovert/WoWPeru_TBCBalance](https://github.com/DarckRovert/WoWPeru_TBCBalance)
+* **Desarrollador:** DarckRovert & Project Jaina Staff
+* **Ecosistema:** [Project Jaina — Project Jaina (Servidor Inti)](https://worldofwanos.com/)
+* **Repositorio Oficial:** [DarckRovert/Wanos_TBCBalance](https://github.com/DarckRovert/Wanos_TBCBalance)
 
 ---
 

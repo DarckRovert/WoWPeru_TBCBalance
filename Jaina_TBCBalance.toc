@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: Inti TBC Balance - GM
 ## Notes: Indicador privado del equilibrio de bandas TBC; solo con .gm on en Inti.
-## Author: DarckRovert (Elnazzareno) & WoW Perú Team
+## Author: DarckRovert (Elnazzareno) & Project Jaina Team
 ## Version: 1.0.0
 IntiTBCBalance.lua
