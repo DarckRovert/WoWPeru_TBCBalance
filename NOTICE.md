@@ -7,7 +7,7 @@ Monitor privado de composición, bufos y balance de clases en bandas TBC para Ga
 
 ## 1. Autoría y Desarrollo Oficial
 * **Desarrollador:** DarckRovert & Project Jaina Staff
-* **Ecosistema:** [Project Jaina — Project Jaina (Servidor Inti)](https://worldofwanos.com/)
+* **Ecosistema:** [Project Jaina — Project Jaina (Servidor Inti)](https://projectjaina.com/)
 * **Repositorio Oficial:** [DarckRovert/Wanos_TBCBalance](https://github.com/DarckRovert/Wanos_TBCBalance)
 
 ---

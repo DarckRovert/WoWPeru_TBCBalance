@@ -1,7 +1,7 @@
 # 🔌 Especificación Técnica y API — Wanos_TBCBalance
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_TBCBalance-black?logo=github)](https://github.com/DarckRovert/Wanos_TBCBalance)
-[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://worldofwanos.com/)
+[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://projectjaina.com/)
 
 ## 📌 Resumen Arquitectónico
 Monitor de composición de banda, auras sinérgicas y distribución de clases diseñado para auditoría de equilibrio en encuentros de banda TBC / WotLK.
